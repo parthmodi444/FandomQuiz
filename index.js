@@ -36,6 +36,22 @@ var queBank = [
     a: Amitabh
     b: rishi Kapoor\n`,
     answer: "a"
+ },
+ {
+   question:`
+   First Khan of Bollywood?
+   a)Sahir Khan
+   b)Aamir Khan
+   c)Yusuf Khan\n`,
+   answer:"c"
+ },
+ {
+   question:`
+   Hrithik Roshan First Film
+   a)Kaho na Pyar ha
+   b)Mission Kashmir
+   c)Mujse dosti Karoge\n`,
+   answer:"a"
  }
 
 
